@@ -29,10 +29,6 @@ The Lemonade App lets users **tap through stages of making lemonade**, from pick
 ---
 
 ## 📷 App Screenshots
-![](.README_images/lemonTreeScreen.png)
-![](.README_images/lemonscreen.png)
-![](.README_images/lemonDrinkScene.png)
-![](.README_images/emptyGlassScreen.png)
 
 <table>
   <tr>
