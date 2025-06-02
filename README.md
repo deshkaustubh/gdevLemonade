@@ -36,11 +36,13 @@ The Lemonade App lets users **tap through stages of making lemonade**, from pick
 
 <table>
   <tr>
-    <td><img src="![](.README_images/lemonTreeScreen.png)" alt="App Screenshot" width="300"></td>
+    <td><img src=".README_images/lemonTreeScreen.png" alt="Lemon Tree Screen" width="300"></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Location%20Finder/Version2/LocationAppHome.jpg" alt="App Screenshot" width="300"></td>
+    <td><img src=".README_images/lemonscreen.png" alt="Lemon Squeeze Screen" width="300"></td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><img src="https://github.com/kaustubhsuryakantdeshpande/images/blob/main/Location%20Finder/Version2/LocationAppCopyFeature.jpg" alt="App Screenshot" width="300"></td>
+    <td><img src=".README_images/lemonDrinkScene.png" alt="Lemon Drink Scene" width="300"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src=".README_images/emptyGlassScreen.png" alt="Empty Glass Screen" width="300"></td>
   </tr>
 </table>
 
